@@ -27,6 +27,7 @@ readonly FILEPATHS=(
     "Pods ../Podfile"
     ".build ../Package.swift"
     ".gradle ../build.gradle"
+    "build ../build.gradle"
 )
 
 # Given a directory path, determine if the corresponding file (relative
